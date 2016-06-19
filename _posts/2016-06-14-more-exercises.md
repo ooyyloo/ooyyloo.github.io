@@ -9,6 +9,7 @@ category: thinking
 ### <font style="font-weight:bold;"> Codeforces Beta Round #93 </font>
 
 [C]
+<br/>
 
 (NF)
 
@@ -18,6 +19,7 @@ category: thinking
 ### <font style="font-weight:bold;"> Codeforces Round #352 (Div. 1) </font>
 
 [C] 枚举gcd、利用差集求答案这两个思想值得注意。(这题也比较难写)
+<br/>
 
 (NF)
 
