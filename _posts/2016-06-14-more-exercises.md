@@ -6,17 +6,19 @@ category: thinking
 
 ## **2016年6月**
 
-### <font style="font-weight:bold;">
-Codeforces Beta Round #93
-</font>
+### <font style="font-weight:bold;"> Codeforces Beta Round #93 </font>
+
 [C]
+
 (NF)
+
 <br/>
 
 
-### <font style="font-weight:bold;">
-Codeforces Round #352 (Div. 1)
-</font>
+### <font style="font-weight:bold;"> Codeforces Round #352 (Div. 1) </font>
+
 [C] 枚举gcd、利用差集求答案这两个思想值得注意。(这题也比较难写)
+
 (NF)
+
 <br/>
