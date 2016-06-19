@@ -9,7 +9,6 @@ category: thinking
 ### <font style="font-weight:bold;"> Codeforces Beta Round #93 </font>
 
 [C]
-<br/>
 
 (NF)
 
